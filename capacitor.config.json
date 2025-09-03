@@ -1,0 +1,6 @@
+{
+  "appId": "com.abhishek.ai",
+  "appName": "Abhishek AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

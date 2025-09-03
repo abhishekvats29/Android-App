@@ -1,0 +1,46 @@
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# Editor files
+.vscode/*
+.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Capacitor
+capacitor.config.json.backup
+
+# Build artifacts
+build/
+*.apk
+*.ap_
+*.aab
+
+# Android Studio
+.gradle/
+local.properties
+captures/
+outputs/
+android/app/build/
+android/.gradle/
+android/.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini

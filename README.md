@@ -1,12 +1,55 @@
-# React + Vite
+# 📱 Portfolio Android App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **personal portfolio mobile application** built with **ReactJS, Capacitor, and Android Studio**, designed to showcase my projects, skills, and experience in an interactive and user-friendly way.  
 
-Currently, two official plugins are available:
+This app is a mobile extension of my portfolio website, optimized for Android devices and published as a native Android APK.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
+- **Modern UI/UX** with responsive design  
+- Built using **ReactJS + Capacitor**  
+- Runs as a **native Android application** via Android Studio  
+- **Showcases projects, skills, and experience** in a structured way  
+- Easily deployable to Android devices  
+- integrated APIs (chatbots, AI/LLM)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+- **Frontend:** ReactJS, HTML, CSS, JavaScript, TailwindCSS  
+- **Mobile Runtime:** Capacitor  
+- **Backend APIs (Optional Extensions):** Flask, FastAPI  
+- **IDE:** Android Studio
+- **AI Chatbot:** LLM AI Chatbot  
+- **Other Tools:** Git, GitHub  
+
+---
+
+## Project Structure
+Portfolio-App/
+├── android/ # Native Android project (Capacitor bridge)
+├── public/ # Static assets
+├── src/ # ReactJS source code
+├── node_modules/ # Dependencies (ignored in Git)
+├── package.json # Project metadata & scripts
+└── README.md # Project documentation
+
+## Screenshots
+*(Add some screenshots or demo GIFs here)*
+
+## Installation
+1. Clone the repo
+2. Run `npm install`
+3. Build the project: `npm run build`
+4. Open the project in Android Studio (`npx cap open android`)
+5. Run on an emulator or physical device
+
+---
+## 👨‍💻 Author
+**Abhishek Vats**  
+- Full-Stack Developer | AI & Chatbot Enthusiast
+
+## 📄 License
+This project is **not open source** and is intended solely as a personal portfolio project.  
+You may view the code for reference, but **reproduction, redistribution, or commercial use is not permitted** without explicit permission from the author.

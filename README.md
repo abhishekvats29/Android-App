@@ -19,8 +19,9 @@ This app is a mobile extension of my portfolio website, optimized for Android de
 ---
 
 ## Tech Stack
-- **Frontend:** ReactJS, HTML, CSS, JavaScript, TailwindCSS  
-- **Mobile Runtime:** Capacitor  
+- **Frontend:** ReactJS, HTML, CSS, JavaScript, TailwindCSS
+- **Frameworks:** Capacitor, Gradle 
+- **Mobile Runtime:** Emulator or physical device  
 - **Backend APIs (Optional Extensions):** Flask, FastAPI  
 - **IDE:** Android Studio
 - **AI Chatbot:** LLM AI Chatbot  

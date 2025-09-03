@@ -6,7 +6,7 @@ This app is a mobile extension of my portfolio website, optimized for Android de
 
 ---
 ## Screenshots
-*(Add some screenshots or demo GIFs here)*
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f2cf0811-34b4-494d-b0b8-5ef4736f7b11" />
 
 ## Features
 - **Modern UI/UX** with responsive design  

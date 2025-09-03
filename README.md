@@ -5,6 +5,8 @@ A **personal portfolio mobile application** built with **ReactJS, Capacitor, and
 This app is a mobile extension of my portfolio website, optimized for Android devices and published as a native Android APK.  
 
 ---
+## Screenshots
+*(Add some screenshots or demo GIFs here)*
 
 ## Features
 - **Modern UI/UX** with responsive design  
@@ -25,18 +27,6 @@ This app is a mobile extension of my portfolio website, optimized for Android de
 - **Other Tools:** Git, GitHub  
 
 ---
-
-## Project Structure
-Portfolio-App/
-├── android/ # Native Android project (Capacitor bridge)
-├── public/ # Static assets
-├── src/ # ReactJS source code
-├── node_modules/ # Dependencies (ignored in Git)
-├── package.json # Project metadata & scripts
-└── README.md # Project documentation
-
-## Screenshots
-*(Add some screenshots or demo GIFs here)*
 
 ## Installation
 1. Clone the repo
